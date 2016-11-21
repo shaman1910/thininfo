@@ -1,0 +1,4 @@
+PRINTER_0_NAME="usb"
+PRINTER_0_DEVICE=/dev/usb/lp0
+PRINTER_0_TYPE=U
+PRINTER_0_DRIVER="HP LaserJet Professional P1102"
